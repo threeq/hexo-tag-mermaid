@@ -1,0 +1,34 @@
+{
+  "name": "hexo-tag-gantt",
+  "version": "1.0.0",
+  "description": "hexo tag gantt",
+  "author": {
+    "name": "threeq",
+    "email": "448987046@qq.com",
+    "url": "http://threeq.github.io/"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/threeq/hexo-tag-gantt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/threeq/hexo-tag-gantt/issues"
+  },
+  "readmeFilename": "README.md",
+  "keywords": [
+    "tag",
+    "gantt",
+    "hexo"
+  ],
+  "homepage": "http://threeq.github.io//hexo-tag-gantt",
+  "_id": "hexo-tag-gantt@1.0.0",
+  "_from": "hexo-tag-gantt@",
+  "dependencies": {
+    "bluebird": "^2.10.2",
+    "hexo-fs": "^0.1.4",
+    "hexo-tag-bootstrap": "0.0.8",
+    "mermaid": "^0.5.5",
+    "phantomjs": "^1.9.18"
+  }
+}
